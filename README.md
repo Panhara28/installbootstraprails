@@ -21,6 +21,7 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'rails-assets-tether', '>= 1.3.3', source: 'https://rails-assets.org'
 ```
 then ``` bundle install ``` 
+
 2. change application.css to application.scss and then add this line to application.scss
 ```
 @import "bootstrap";
